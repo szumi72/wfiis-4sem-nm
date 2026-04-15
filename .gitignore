@@ -1,3 +1,4 @@
 *.exe
 **/.vscode/
 b_lab02/
+lab03/main2.c
